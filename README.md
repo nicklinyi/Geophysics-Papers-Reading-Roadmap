@@ -1,6 +1,35 @@
 # Geophysics-Papers-Reading-Roadmap
 
-## upsampling
+## Seismic Modeling Methods
+
+### Finite-difference
+1. Z. Alterman, F. Karal, Propagation of elastic waves in layered media by finite difference methods, Bull. Seismol. Soc. Am. 58 (1968) 367–398.
+
+2. R. Alford, K. Kelly, D.M. Boore, Accuracy of finite-difference modeling of the acoustic wave equation, Geophysics 39 (1974) 834–842.
+
+3. J. Virieux, SH-wave propagation in heterogeneous media: velocity-stress finite-difference method, Geophysics 49 (1984) 1933–1942.
+
+### Pseudospectral methods
+1. J. Gazdag, Modeling of the acoustic wave equation with transform methods, Geophysics 46 (1981) 854–859.
+
+2. D.D. Kosloff, E. Baysal, Forward modeling by a Fourier method, Geophysics 47 (1982) 1402–1412.
+
+3. D.D. Kosloff, M. Reshef, D. Loewenthal, Elastic wave calculations by the Fourier method, Bull. Seismol. Soc. Am. 74 (1984) 875–891.
+
+4. B. Fornberg, The pseudospectral method: comparisons with finite differences for the elastic wave equation, Geophysics 52 (1987) 483–501.
+
+### Finite-element methods
+1. K.J. Marfurt, Accuracy of finite-difference and finite-element modeling of the scalar and elastic wave equations, Geophysics 49 (1984) 533–549
+
+### Hybird methods
+- Spectral-element method
+D. Komatitsch, J.-P. Vilotte, The spectral element method: an efficient tool to simulate the seismic response of 2D and 3D geological structures, Bull.
+Seismol. Soc. Am. 88 (1998) 368–392.
+- Finite-volume method
+E. Dormy, A. Tarantola, Numerical simulation of elastic wave propagation using a finite volume method, J. Geophys. Res., Solid Earth (1978–2012) 100
+(1995) 2123–2133.
+
+## Upsampling
 1. Moczo, P. (1989). Finite-difference technique for SH-wave in 2-D media using irregular grids-application to the seismic response problem. Geophys. J. Int., 99(2), 321-329. https://doi.org/10.1111/j.1365-246X.1989.tb01691.x
 
 2. Jastram, C., and Behle, A. (1992). Acoustic modelling on a grid of vertically varying spacing. Geophys. Prospect., 40(2), 157-169.
