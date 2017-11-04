@@ -44,30 +44,6 @@ E. Dormy, A. Tarantola, Numerical simulation of elastic wave propagation using a
 
 5. Y. Liu, M.K. Sen, Time-space domain dispersion-relation-based finite-difference method with arbitrary even-order accuracy for the 2D acoustic wave equation, J. Comput. Phys. 232 (2013) 327–345
 
-### Time-dispersion
-#### High-order time FD schemes
-1. J.B. Chen, High-order time discretizations in seismic modeling, Geophysics 72 (2007) SM115–SM122.
-
-2. Y. Zhang, G. Zhang, D. Yingst, J. Sun, Explicit marching method for reverse time migration, in: 77th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2007, pp. 2300–2304.
-
-3. R. Soubaras, Y. Zhang, Two-step explicit marching method for reverse time migration, in: 78th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2008.
-
-4. Y. Zhang, G. Zhang, One-step extrapolation method for reverse time migration, Geophysics 74 (2009) A29–A33.
-
-#### Rapid expansion method (REM)
-1. H. Tal-Ezer, D. Kosloff, Z. Koren, An accurate scheme for seismic forward modelling, Geophys. Prospect. 35 (1987) 479–490.
-
-2. D. Kosloff, A. Queiroz Filho, E. Tessmer, A. Behle, Numerical solution of the acoustic and elastic wave equations by a new rapid expansion method, Geophys. Prospect. 37 (1989) 383–394.
-
-3. R.C. Pestana, P.L. Stoffa, Time evolution of the wave equation using rapid expansion method, Geophysics 75 (2010) T121–T131.
-
-4. E. Tessmer, Using the rapid expansion method for accurate time-stepping in modeling and reverse-time migration, Geophysics 76 (2011) S177–S185.
-
-#### Low rank methods
-1. S. Fomel, L. Ying, X. Song, Seismic wave extrapolation using lowrank symbol approximation, in: 80th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2010.
-
-2. S. Fomel, L. Ying, X. Song, Seismic wave extrapolation using lowrank symbol approximation, Geophys. Prospect. 61 (2012) 526–536.
-
 #### Optimized FD operators
 1. O. Holberg, Computational aspects of the choice of operator and sampling interval for numerical differentiation in large-scale simulation of wave phenomena, Geophys. Prospect. 35 (1987) 629–655.
 
@@ -103,6 +79,49 @@ E. Dormy, A. Tarantola, Numerical simulation of elastic wave propagation using a
 
 #### Stereo-modeling methods
 P. Tong, D. Yang, B. Hua, M. Wang, A high-order stereo-modeling method for solving wave equations, Bull. Seismol. Soc. Am. 103 (2013) 811–833.
+
+### Time-dispersion
+#### High-order time FD schemes
+1. J.B. Chen, High-order time discretizations in seismic modeling, Geophysics 72 (2007) SM115–SM122.
+
+2. Y. Zhang, G. Zhang, D. Yingst, J. Sun, Explicit marching method for reverse time migration, in: 77th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2007, pp. 2300–2304.
+
+3. R. Soubaras, Y. Zhang, Two-step explicit marching method for reverse time migration, in: 78th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2008.
+
+4. Y. Zhang, G. Zhang, One-step extrapolation method for reverse time migration, Geophysics 74 (2009) A29–A33.
+
+#### Rapid expansion method (REM)
+1. H. Tal-Ezer, D. Kosloff, Z. Koren, An accurate scheme for seismic forward modelling, Geophys. Prospect. 35 (1987) 479–490.
+
+2. D. Kosloff, A. Queiroz Filho, E. Tessmer, A. Behle, Numerical solution of the acoustic and elastic wave equations by a new rapid expansion method, Geophys. Prospect. 37 (1989) 383–394.
+
+3. R.C. Pestana, P.L. Stoffa, Time evolution of the wave equation using rapid expansion method, Geophysics 75 (2010) T121–T131.
+
+4. E. Tessmer, Using the rapid expansion method for accurate time-stepping in modeling and reverse-time migration, Geophysics 76 (2011) S177–S185.
+
+#### Low rank methods
+1. S. Fomel, L. Ying, X. Song, Seismic wave extrapolation using lowrank symbol approximation, in: 80th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2010.
+
+2. S. Fomel, L. Ying, X. Song, Seismic wave extrapolation using lowrank symbol approximation, Geophys. Prospect. 61 (2012) 526–536.
+
+#### Fourier finite-difference methods
+1. X. Song, S. Fomel, Fourier finite-difference wave propagation, Geophysics 76 (2011) T123–T129.
+
+2. X. Song, K. Nihei, J. Stefani, Seismic modeling in acoustic variable-density media by Fourier finite differences, in: 82th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2012.
+
+3. X. Song, S. Fomel, L. Ying, Lowrank finite-differences and lowrank Fourier finite-differences for seismic wave extrapolation in the acoustic approximation, Geophys. J. Int. 193 (2013) 960–969.
+
+#### Correction methods based on filter and interpolation
+1. Y.E. Li, M. Wong, R. Clapp, Equivalent accuracy at a fraction of the cost: overcoming temporal dispersion, Stanford Exploration Project, Report-150, 2013.
+
+2. C. Stork, Eliminating nearly all dispersion error from FD modeling and RTM with minimal cost increase, in: 75th Annual International Conference and Exhibition, EAGE, Extended Abstracts, Tu 11 07, 2013.
+
+3. H. Liu, N. Dai, F. Niu, W. Wu, An explicit time evolution method for acoustic wave propagation, Geophysics 79 (2014) T117–T124.
+
+#### Time dispersion transform
+1. M. Wang, S. Xu, Finite-difference time dispersion transforms for wave propagation, Geophysics 80 (2015) WD19–WD25.
+
+2. M. Wang, S. Xu, Time dispersion prediction and correction for wave propagation, in: 85th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2015, pp. 3677–3681.
 
 ## Upsampling
 1. Moczo, P. (1989). Finite-difference technique for SH-wave in 2-D media using irregular grids-application to the seismic response problem. Geophys. J. Int., 99(2), 321-329. https://doi.org/10.1111/j.1365-246X.1989.tb01691.x
