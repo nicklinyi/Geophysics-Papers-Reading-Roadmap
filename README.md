@@ -23,9 +23,11 @@
 
 ### Hybird methods
 - Spectral-element method
+
 D. Komatitsch, J.-P. Vilotte, The spectral element method: an efficient tool to simulate the seismic response of 2D and 3D geological structures, Bull.
 Seismol. Soc. Am. 88 (1998) 368–392.
 - Finite-volume method
+
 E. Dormy, A. Tarantola, Numerical simulation of elastic wave propagation using a finite volume method, J. Geophys. Res., Solid Earth (1978–2012) 100
 (1995) 2123–2133.
 
