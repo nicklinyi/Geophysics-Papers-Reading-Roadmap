@@ -123,6 +123,38 @@ P. Tong, D. Yang, B. Hua, M. Wang, A high-order stereo-modeling method for solvi
 
 2. M. Wang, S. Xu, Time dispersion prediction and correction for wave propagation, in: 85th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2015, pp. 3677–3681.
 
+## Boundary condition
+### Absorbing boundary conditions (ABC)
+1. Clayton, R., and Engquist, B., 1977, Absorbing boundary conditions for acoustic and elastic wave equations: Bulletin of the Seismological Society of America, 67, 1529–1540.
+
+2. Reynolds, A. C., 1978, Boundary conditions for the numerical solution of wave propagation problems: Geophysics, 43, 1099–1110. doi:10.1190/1.1440881
+
+3. Liao, Z, Huang, K, Yang, B, and Yuan, Y, 1984, A transmitting boundary for transient wave analyses: Scientia Sinica (Series A), 27, 1063–1076.
+
+4. Higdon, R. L., 1986, Absorbing boundary conditions for difference approximations to the multidimensional wave equation: Mathematics
+of Computation, 47, 437–459.
+
+5. Higdon, R. L., 1991, Absorbing boundary conditions for elastic waves: Geophysics, 56, 231–241. doi:10.1190/1.1443035
+
+### Absorbing boundary layers 
+1. Cerjan, C., Kosloff, D., Kosloff, R., and Reshef, M., 1985, A nonreflecting boundary condition for discrete acoustic and elastic wave equations: Geophysics, 50, 705–708. doi:10.1190/1.1441945
+
+2. Kosloff, R., and Kosloff, D., 1986, Absorbing boundaries for wave propagation problems: Journal of Computational Physics, 63,
+363–376. doi:10.1016/0021-9991(86)90199-3
+
+3. Compani-Tabrizi, B., 1986, k-t scattering formulation of the absorptive acoustic wave equation: Wraparound and edge-effect elimination: Geophysics, 51, 2185–2192. doi:10.1190/1.1442071
+
+4. Sochacki, J., Kubichek, R., George, J., Fletcher, W., and Smithson, S., 1987, Absorbing boundary conditions and surface waves: Geophysics, 52, 60–71. doi:10.1190/1.1442241
+
+5. Bérenger, J. P., 1994, A perfectly matched layer for the absorption of electromagnetic waves: Journal of Computational Physics, 114,
+185–200. doi:10.1006/jcph.1994.1159
+
+6. Komatitsch, D., and Martin, R., 2007, An unsplit convolutional perfectly matched layer improved at grazing incidence for the seismic wave equation: Geophysics, 72, SM155–SM167. doi:10.1190/1.2757586
+
+7. Liu, Y., and Sen, M. K., 2010, A hybrid scheme for absorbing edge reflections in numerical modeling of wave propagation: Geophysics, 75, A1–A6. doi:10.1190/1.3295447
+
+8. Liu, Y., and Sen, M. K., 2012, A hybrid absorbing boundary condition for elastic staggered-grid modeling: Geophysical Prospecting, 60, 1114–1132. doi:10.1111/j.1365-2478.2011.01051.x
+
 ## Upsampling
 1. Moczo, P. (1989). Finite-difference technique for SH-wave in 2-D media using irregular grids-application to the seismic response problem. Geophys. J. Int., 99(2), 321-329. https://doi.org/10.1111/j.1365-246X.1989.tb01691.x
 
