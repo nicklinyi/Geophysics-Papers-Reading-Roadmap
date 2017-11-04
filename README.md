@@ -31,6 +31,79 @@ Seismol. Soc. Am. 88 (1998) 368–392.
 E. Dormy, A. Tarantola, Numerical simulation of elastic wave propagation using a finite volume method, J. Geophys. Res., Solid Earth (1978–2012) 100
 (1995) 2123–2133.
 
+
+### Space dispersion
+#### High-order FD Schemes
+1. M.A. Dablain, The application of high-order differencing to the scalar wave equation, Geophysics 51 (1986) 54–66.
+
+2. J.T. Etgen, High-order finite-difference reverse time migration with the 2-way non-reflecting wave equation, Stanford Exploration Project, Report-48 1986, pp. 133–146.
+
+3. J.T. Etgen, Evaluating finite-difference operators applied to wave simulation, Stanford Exploration Project, Report-57, 1988, pp. 243–258.
+
+4. Y. Liu, M.K. Sen, A new time–space domain high-order finite-difference method for the acoustic wave equation, J. Comput. Phys. 228 (2009) 8779–8806.
+
+5. Y. Liu, M.K. Sen, Time-space domain dispersion-relation-based finite-difference method with arbitrary even-order accuracy for the 2D acoustic wave equation, J. Comput. Phys. 232 (2013) 327–345
+
+### Time-dispersion
+#### High-order time FD schemes
+1. J.B. Chen, High-order time discretizations in seismic modeling, Geophysics 72 (2007) SM115–SM122.
+
+2. Y. Zhang, G. Zhang, D. Yingst, J. Sun, Explicit marching method for reverse time migration, in: 77th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2007, pp. 2300–2304.
+
+3. R. Soubaras, Y. Zhang, Two-step explicit marching method for reverse time migration, in: 78th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2008.
+
+4. Y. Zhang, G. Zhang, One-step extrapolation method for reverse time migration, Geophysics 74 (2009) A29–A33.
+
+#### Rapid expansion method (REM)
+1. H. Tal-Ezer, D. Kosloff, Z. Koren, An accurate scheme for seismic forward modelling, Geophys. Prospect. 35 (1987) 479–490.
+
+2. D. Kosloff, A. Queiroz Filho, E. Tessmer, A. Behle, Numerical solution of the acoustic and elastic wave equations by a new rapid expansion method, Geophys. Prospect. 37 (1989) 383–394.
+
+3. R.C. Pestana, P.L. Stoffa, Time evolution of the wave equation using rapid expansion method, Geophysics 75 (2010) T121–T131.
+
+4. E. Tessmer, Using the rapid expansion method for accurate time-stepping in modeling and reverse-time migration, Geophysics 76 (2011) S177–S185.
+
+#### Low rank methods
+1. S. Fomel, L. Ying, X. Song, Seismic wave extrapolation using lowrank symbol approximation, in: 80th Annual International Meeting, SEG, Expanded Abstracts, Society of Exploration Geophysicists, 2010.
+
+2. S. Fomel, L. Ying, X. Song, Seismic wave extrapolation using lowrank symbol approximation, Geophys. Prospect. 61 (2012) 526–536.
+
+#### Optimized FD operators
+1. O. Holberg, Computational aspects of the choice of operator and sampling interval for numerical differentiation in large-scale simulation of wave phenomena, Geophys. Prospect. 35 (1987) 629–655.
+
+2. J.T. Etgen, A tutorial on optimizing time domain finite-difference schemes: “Beyond Holberg”, Stanford Exploration Project, Report-129, 2007, pp. 33–43.
+
+3. H. Zhou, G. Zhang, Prefactored optimized compact finite-difference schemes for second spatial derivatives, Geophysics 76 (2011) WB87–WB95.
+
+4. C. Chu, P.L. Stoffa, Determination of finite-difference weights using scaled binomial windows, Geophysics 77 (2012) W17–W26.
+
+5. J. Zhang, Z. Yao, Optimized explicit finite-difference schemes for spatial derivatives using maximum norm, J. Comput. Phys. 250 (2013) 511–526.
+
+6. J. Zhang, Z. Yao, Optimized finite-difference operator for broadband seismic wave modeling, Geophysics 78 (2013) A13–A18.
+
+7. Y. Liu, Globally optimal finite-difference schemes based on least squares, Geophysics 78 (2013) T113–T132.
+
+8.  S. Tan, L. Huang, A staggered-grid finite-difference scheme optimized in the time-space domain for modeling scalar-wave propagation in geophysical problems, J. Comput. Phys. 276 (2014) 613–634.
+
+9. Y. Wang, W. Liang, Z. Nashed, X. Li, G. Liang, C. Yang, Seismic modeling by optimizing regularized staggered-grid finite-difference operators using a time–space-domain dispersion-relationship-preserving method, Geophysics 79 (2014) T277–T285.
+
+10. W. Sun, B. Zhou, L.Y. Fu, A staggered-grid convolutional differentiator for elastic wave modelling, J. Comput. Phys. 301 (2015) 59–76.
+
+#### Flux-corrected transport technique
+1. J.P. Boris, D.L. Book, Flux-corrected transport. I. SHASTA, a fluid transport algorithm that works, J. Comput. Phys. 11 (1973) 38–69.
+
+2. T. Fei, K. Larner, Elimination of numerical dispersion in finite-difference modeling and migration by flux-corrected transport, Geophysics 60 (1995) 1830–1842.
+
+3. D. Yang, E. Liu, Z. Zhang, J. Teng, Finite-difference modelling in two-dimensional anisotropic media using a flux-corrected transport technique, Geophys. J. Int. 148 (2002) 320–328.
+
+#### the nearly analytical discrete methods
+1. D. Yang, J. Teng, Z. Zhang, E. Liu, A nearly analytic discrete method for acoustic and elastic wave equations in anisotropic media, Bull. Seismol. Soc. Am. 93 (2003) 882–890.
+
+2. D. Yang, M. Lu, R. Wu, J. Peng, An optimal nearly analytic discrete method for 2D acoustic and elastic wave equations, Bull. Seismol. Soc. Am. 94 (2004) 1982–1991.
+
+#### Stereo-modeling methods
+P. Tong, D. Yang, B. Hua, M. Wang, A high-order stereo-modeling method for solving wave equations, Bull. Seismol. Soc. Am. 103 (2013) 811–833.
+
 ## Upsampling
 1. Moczo, P. (1989). Finite-difference technique for SH-wave in 2-D media using irregular grids-application to the seismic response problem. Geophys. J. Int., 99(2), 321-329. https://doi.org/10.1111/j.1365-246X.1989.tb01691.x
 
