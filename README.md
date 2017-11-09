@@ -178,4 +178,7 @@ https://doi.org/10.1111/j.1365-2478.1992.tb00369.x
 10. Zhang, J. H., and Yao, Z. X. (2017). Exact local refinement using Fourier interpolation for nonuniform-grid modeling. Earth Planet.
 Phys., 1, 58-62. http://doi.org/10.26464/epp2017008
 
-## 
+## Algorithm
+
+### Neighbourhood algorithm
+Sambridge M. Geophysical inversion with a neighbourhood algorithm-I. Searching a parameter space [J]. Geophysical Journal International, 1999, 138(2): 479-494
