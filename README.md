@@ -179,6 +179,11 @@ https://doi.org/10.1111/j.1365-2478.1992.tb00369.x
 Phys., 1, 58-62. http://doi.org/10.26464/epp2017008
 
 ## Algorithm
+### Book
+M.K. Sen, P.L. Stoffa, Global Optimization methods in geophysical inversion, 2nd edition., Cambridge University Press, Cambridge, 2013.
 
 ### Neighbourhood algorithm
 Sambridge M. Geophysical inversion with a neighbourhood algorithm-I. Searching a parameter space [J]. Geophysical Journal International, 1999, 138(2): 479-494
+
+### Simulated Annealing
+S. Kirkpatrick, C.D. Gelatt, M.P. Vecchi, Optimization by simulated annealing, Science 220 (1983) 671–680.
