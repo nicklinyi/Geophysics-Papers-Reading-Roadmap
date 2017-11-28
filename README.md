@@ -178,6 +178,19 @@ https://doi.org/10.1111/j.1365-2478.1992.tb00369.x
 10. Zhang, J. H., and Yao, Z. X. (2017). Exact local refinement using Fourier interpolation for nonuniform-grid modeling. Earth Planet.
 Phys., 1, 58-62. http://doi.org/10.26464/epp2017008
 
+## Interpolation
+1. Spitz, S. (1991). Seismic trace interpolation in the f-x domain, Geophysics 56, 785–794.
+
+2. Bardan, V. (1987). Trace interpolation in seismic data processing. Geophysical Prospecting, 35(4), 343-358.
+
+3. Gulunay, N., & Chambers, R. (1997). Generalized fk domain trace interpolation. In SEG Technical Program Expanded Abstracts 1997 (pp. 1100-1103). Society of Exploration Geophysicists.
+
+4. Gülünay, N. (2003). Seismic trace interpolation in the Fourier transform domain. Geophysics, 68(1), 355-369.
+
+5. Claerbout, J. F. (2010). Image estimation by example: Geophysical soundings image construction—Multidimensional autoregression: Stanford Exploration Project.
+
+6. Abma, R., and N. Kabir (2005). Comparisons of interpolation methods, TLE 24, 984–989.
+
 ## Algorithm
 ### Book
 M.K. Sen, P.L. Stoffa, Global Optimization methods in geophysical inversion, 2nd edition., Cambridge University Press, Cambridge, 2013.
