@@ -191,6 +191,24 @@ Phys., 1, 58-62. http://doi.org/10.26464/epp2017008
 
 6. Abma, R., and N. Kabir (2005). Comparisons of interpolation methods, TLE 24, 984–989.
 
+## Anisotropy Tomography
+- Chevrot, S. (2000), Multichannel analysis of shear wave splitting, J. Geophys. Res., 105, 21,579–21,590, doi:10.1029/2000JB900199
+- Favier, N., and S. Chevrot (2003), Sensitivity kernels for shear wave splitting in transverse isotropic media, Geophys. J. Int., 153, 213–228
+- Favier, N., S. Chevrot, and D. Komatitsch (2004), Near-field influences on shear wave splitting and traveltime sensitivity kernels, Geophys. J. Int.,
+156, 467–482
+- Chevrot, S. (2006), Finite frequency vectorial tomography: A new method for high resolution imaging of upper mantle anisotropy, Geophys. J. Int.,
+165, 641–657.
+- Sieminski, A., Q. Liu, J. Trampert, and J. Tromp (2007), Finite-frequency sensitivity of body waves to anisotropy based upon adjoint methods,
+Geophys. J. Int., 171, 368–389
+- Monteiller, V., and S. Chevrot (2011), High-resolution imaging of the deep anisotropic structure of the San Andreas Fault system beneath
+southern California, Geophys. J. Int., 186, 418–446.
+- Zhao, L., and S. Chevrot (2011a), An efficient and flexible approach to the calculation of three-dimensional full-wave Fréchet kernels for
+seismic tomography: I–Theory, Geophys. J. Int., 185, 922–938.
+- Zhao, L., and S. Chevrot (2011b), An efficient and flexible approach to the calculation of three-dimensional full-wave Fréchet kernels for
+seismic tomography: II–Numerical results, Geophys. J. Int., 185, 939–954
+- Lin, Y.-P., L. Zhao, and S.-H. Hung (2014), Full-wave multiscale anisotropy tomography in Southern California, Geophys. Res. Lett., 41, 8809–8817, doi:10.1002/2014GL061855.
+
+
 ## Algorithm
 ### Book
 M.K. Sen, P.L. Stoffa, Global Optimization methods in geophysical inversion, 2nd edition., Cambridge University Press, Cambridge, 2013.
